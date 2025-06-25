@@ -25,7 +25,7 @@
 ---
 
 ## 🏆 Baekjoon Rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud1892](https://solved.ac/wodud1892)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud1892)](https://solved.ac/wodud1892)
 
 ---
 
