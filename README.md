@@ -25,14 +25,7 @@
 ---
 
 ## 🏆 Baekjoon Rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id)](https://solved.ac/wodud1892)
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark)](https://git.io/streak-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud1892](https://solved.ac/wodud1892)
 
 ---
 
